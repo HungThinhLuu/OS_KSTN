@@ -1,0 +1,1 @@
+Nhóm đã chỉnh sửa lại phần báo cáo của nhóm, cụ thể là thêm phần so sánh kết quả thu được giữa mô hình LSTM và mô hình RNN; thêm phần đánh giá mô hình nhưng do nhóm tham khảo các bài báo cáo chủ yếu thấy các bài có liên quan sử dụng RMSE để đánh giá mô hình là chủ yếu nên nhóm em đã thêm phần đánh giá sử dụng RMSE vào, xin lỗi thầy vì sự bất tiện này ạ!
